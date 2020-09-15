@@ -1,0 +1,17 @@
+C:\Users\Adiat\Downloads\obj\Debug\netcoreapp3.1\Downloads.csprojAssemblyReference.cache
+C:\Users\Adiat\Downloads\obj\Debug\netcoreapp3.1\Downloads.AssemblyInfoInputs.cache
+C:\Users\Adiat\Downloads\obj\Debug\netcoreapp3.1\Downloads.AssemblyInfo.cs
+C:\Users\Adiat\Downloads\obj\Debug\netcoreapp3.1\Downloads.csproj.CoreCompileInputs.cache
+C:\Users\Adiat\Downloads\testProgramm\bin\Debug\netcoreapp3.1\Downloads.exe
+C:\Users\Adiat\Downloads\testProgramm\bin\Debug\netcoreapp3.1\Downloads.deps.json
+C:\Users\Adiat\Downloads\testProgramm\bin\Debug\netcoreapp3.1\Downloads.runtimeconfig.json
+C:\Users\Adiat\Downloads\testProgramm\bin\Debug\netcoreapp3.1\Downloads.runtimeconfig.dev.json
+C:\Users\Adiat\Downloads\testProgramm\bin\Debug\netcoreapp3.1\Downloads.dll
+C:\Users\Adiat\Downloads\testProgramm\bin\Debug\netcoreapp3.1\Downloads.pdb
+C:\Users\Adiat\Downloads\testProgramm\obj\Debug\netcoreapp3.1\Downloads.csprojAssemblyReference.cache
+C:\Users\Adiat\Downloads\testProgramm\obj\Debug\netcoreapp3.1\Downloads.AssemblyInfoInputs.cache
+C:\Users\Adiat\Downloads\testProgramm\obj\Debug\netcoreapp3.1\Downloads.AssemblyInfo.cs
+C:\Users\Adiat\Downloads\testProgramm\obj\Debug\netcoreapp3.1\Downloads.csproj.CoreCompileInputs.cache
+C:\Users\Adiat\Downloads\testProgramm\obj\Debug\netcoreapp3.1\Downloads.dll
+C:\Users\Adiat\Downloads\testProgramm\obj\Debug\netcoreapp3.1\Downloads.pdb
+C:\Users\Adiat\Downloads\testProgramm\obj\Debug\netcoreapp3.1\Downloads.genruntimeconfig.cache
